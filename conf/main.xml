@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<oid-registry xmlns="http://schema.ctit.co.th/oid-registry/2017/08/25">
+  <http>
+    <listener ssl="false">
+      <address>localhost:1700</address>
+    </listener>
+  </http>
+</oid-registry>
